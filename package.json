@@ -1,0 +1,15 @@
+{
+  "name": "typescript-examples",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "typescript-examples",
+  "homepage": "https://github.com/tamuratak/typescript-examples",
+  "main": "./out/src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamuratak/typescript-examples.git"
+  },
+  "devDependencies": {
+    "typescript": "4.4.4"
+  }
+}
